@@ -183,8 +183,8 @@ public class InputOutput {
     }
 
     public enum KindsOfPlayers {
-        RANDOMCOMPUTER(0, "Computer with random choose"),
-        CHEATINGCOMUPTER(1, "Choose which can cheat a little "),
+        RANDOMCOMPUTER(0, "Computer with a random choice"),
+        CHEATINGCOMUPTER(1, "Computer which can cheat a little :)"),
         PLAYER(2, "Human player");
         private int option;
         private String optionExplanation;
